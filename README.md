@@ -1,3 +1,11 @@
+
+<h1 align="center">Salut, moi c'est Mathis 👋</h1>
+
+- 💻 Développeur en formation, curieux de tout ce qui touche aux microservices, aux API bien conçues, et aux architectures distribuées
+
+- 🌱 Actuellement plongé dans l’apprentissage de Go
+
+---
 <h3 align="left">🛠️ Languages and Tools:</h3>
 
 <h4>🧠 Languages</h4>
